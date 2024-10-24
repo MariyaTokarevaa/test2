@@ -1,6 +1,9 @@
 
 # Задание
 [Описание задания](https://netology.ru/profile/program/job-tz-prog-pd-4/lessons/401964/lesson_items/2175029)
+
+![image](https://github.com/user-attachments/assets/d12f70b0-1a4b-4f06-a91d-b4a585d4ca93)
+
 Условие
 
 Необходимо реализовать Python-библиотеку, которая осуществляет получение квадратной матрицы (NxN) с удалённого сервера и возвращает её пользователю в виде List[int]. 
