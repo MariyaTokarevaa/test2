@@ -1,6 +1,6 @@
 
 # Задание
-[Описание задания](https://netology.ru/profile/program/job-tz-prog-pd-4/lessons/401964/lesson_items/2175029)
+[Описание задания](https://github.com/avito-tech/python-trainee-assignment)
 
 
 
